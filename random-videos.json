@@ -1,17 +1,17 @@
 [
     {
         "title": "Rasmus Lerdorf – 25 years of PHP",
-        "url": "https://youtu.be/Qa_xVjTiOUw",
+        "src": "https://youtu.be/Qa_xVjTiOUw",
         "href": "https://i.ytimg.com/vi/Qa_xVjTiOUw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDcyGirFsWzrLzuXO085P9hd75ISw"
     },
     {
         "title": "Factory Pattern - Object Oriented PHP Tutorial",
-        "url": "https://youtu.be/H5lor4wyl1Y",
+        "src": "https://youtu.be/H5lor4wyl1Y",
         "href": "https://i.ytimg.com/vi/H5lor4wyl1Y/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBj3HksDmycb703P04MpuxbCE86fw"
     },
     {
         "title": "How to get ready for PHP 8 | Sebastian Bergmann",
-        "url": "https://youtu.be/RjiOKgmqosQ",
+        "src": "https://youtu.be/RjiOKgmqosQ",
         "href": "https://i.ytimg.com/vi/RjiOKgmqosQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAPNA9AybX197-7Aw6Gxh9jV0jt-w"
     }
 ]
