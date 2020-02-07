@@ -13,5 +13,45 @@
         "title": "Factory Pattern - Object Oriented PHP Tutorial",
         "link": "https://youtu.be/H5lor4wyl1Y",
         "img": "images/random-videos/object-oriented-php-tutorial.jpg"
+    },
+    {
+        "title": "Introduction To OOP PHP",
+        "link": "https://youtu.be/Anz0ArcQ5kI",
+        "img": "images/random-videos/object-oriented-php-mmtuts.jpg"
+    },
+    {
+        "title": "Php Objects & Static Methods",
+        "link": "https://youtu.be/_Zd9B_jUwlw",
+        "img": "images/random-videos/objects-and-static-methods.jpg"
+    },
+    {
+        "title": "The dependency injection container",
+        "link": "https://youtu.be/8bfuR6nEpwY",
+        "img": "images/random-videos/the-dependency-injection-container.jpg"
+    },
+    {
+        "title": "Marco Pivetta – From helpers to middleware",
+        "link": "https://youtu.be/MjpiHy_e8kQ",
+        "img": "images/random-videos/from-helpers-to-middleware.jpg"
+    },
+    {
+        "title": "Kat Zien - Performance optimisation: how do I go about it?",
+        "link": "https://youtu.be/4hB7tGcz1l8",
+        "img": "images/random-videos/performance-optimisation-how-do-I-go-about-it.jpg"
+    },
+    {
+        "title": "Test to Break Principles - Rob Waller - PHP UK Conference 2019",
+        "link": "https://youtu.be/JDwFyRXbVHQ",
+        "img": "images/random-videos/test-to-break-principles-rob-waller.jpg"
+    },
+    {
+        "title": "Compiling PHP from source :: Writing tests for PHP source",
+        "link": "https://youtu.be/GQRwcCFYhMA",
+        "img": "images/random-videos/compiling-php-from-source.jpg"
+    },
+    {
+        "title": "PHP Solid Principles ~ Lesson 1: Single Responsibility",
+        "link": "https://youtu.be/ARxZV8OZ8Cg",
+        "img": "images/random-videos/php-solid-principles-single-responsibility.jpg"
     }
 ]
