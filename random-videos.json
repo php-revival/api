@@ -60,6 +60,16 @@
         "img": "images/random-videos/top-100-php-functions-1-10.jpg"
     },
     {
+        "title": "PHP UK Conference 2017 - David Zuelke - I saw the future, and its web servers were written in PHP",
+        "link": "https://youtu.be/VjJBR8YAxoE",
+        "img": "images/random-videos/david-zuelke-i-saw-the-future-and-its-web.jpg"
+    },
+    {
+        "title": "What Is Object-Oriented Programming?",
+        "link": "https://youtu.be/3rrnnbz-mY8",
+        "img": "images/random-videos/What-Is-Object-Oriented-Programming.jpg"
+    },
+    {
         "title": "Controlling the Variables - Thijs Feryn - PHP UK Conference 2019",
         "link": "https://youtu.be/f3EU-sd9KPY",
         "img": "images/random-videos/controlling-the-variables.jpg"
