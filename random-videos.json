@@ -55,8 +55,18 @@
         "img": "images/random-videos/php-solid-principles-single-responsibility.jpg"
     },
     {
+        "title": "Top 100 PHP Functions ( 1 - 10 ) | Learn PHP Programming",
+        "link": "https://youtu.be/t9FrpTZm1ds",
+        "img": "images/random-videos/top-100-php-functions-1-10.jpg"
+    },
+    {
         "title": "Controlling the Variables - Thijs Feryn - PHP UK Conference 2019",
         "link": "https://youtu.be/f3EU-sd9KPY",
         "img": "images/random-videos/controlling-the-variables.jpg"
+    },
+    {
+        "title": "PHP Functions Tutorial - Learn PHP Programming",
+        "link": "https://youtu.be/HvxQww-7NGA",
+        "img": "images/random-videos/php-functions-tutorial.jpg"
     }
 ]
