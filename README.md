@@ -1,4 +1,4 @@
-# Api Server for PHP Revival browser extension
+# API Server for PHP Revival browser extension
 
 ## Links
 
